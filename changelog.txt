@@ -1,0 +1,9 @@
+= NEWVERSION =
+Release Date: November 2nd, 2018
+
+- Added Polyfill: CustomEvent
+
+= 1.0 =
+Release Date: November 2nd, 2018
+
+- Initial Release
