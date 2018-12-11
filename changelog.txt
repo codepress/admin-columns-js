@@ -1,7 +1,10 @@
-= NEWVERSION =
-Release Date: November 2nd, 2018
+= 1.0.1 =
+Release Date: December 11th, 2018
 
+- Added String.Format Helper
+- Added String.IsFloat Helper
 - Added Polyfill: CustomEvent
+- Added Polyfill: Nodelist
 
 = 1.0 =
 Release Date: November 2nd, 2018
