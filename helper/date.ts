@@ -1,4 +1,4 @@
-export function formatDate( format, date ) {
+export function formatDate( format: string, date: string ): string {
 	// format 2017-12-31
 
 	let year = date.substr(0,4);
