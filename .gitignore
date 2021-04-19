@@ -1,0 +1,12 @@
+# OS
+.DS_Stor*
+._*
+.Spotlight-V100
+.Trashes
+Icon
+ehthumbs.d*
+Thumbs.d*
+/.idea*
+
+# Development
+node_modules

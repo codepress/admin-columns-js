@@ -1,11 +1,15 @@
 {
-  "name": "admin-columns-js",
-  "version": "1.0.1",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/codepress/admin-columns-js.git"
-  },
-  "keywords": [],
-  "author": "Admin Columns",
-  "license": "ISC"
+    "name": "admin-columns-js",
+    "version": "2.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codepress/admin-columns-js.git"
+    },
+    "keywords": [],
+    "author": "Admin Columns",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^14.14.37",
+        "typescript": "^4.2"
+    }
 }
